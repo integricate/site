@@ -81,6 +81,67 @@ img {
     z-index: 1;
     background-color: #EF8B0D;
     height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+/* Logo */
+.nav-logo {
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo a {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    height: 40px;
+    width: auto;
+}
+
+/* Navigation Links */
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.nav-link {
+    color: var(--color-white);
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 0;
+}
+
+.nav-link:hover {
+    color: var(--color-text-dark);
+}
+
+/* Social Icons */
+.nav-social {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.nav-social a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+}
+
+.nav-social a:hover {
+    color: var(--color-text-dark);
+}
+
+.nav-social svg {
+    width: 24px;
+    height: 24px;
 }
 
 .custom-shape-divider-top-1767808773 {
