@@ -1,0 +1,30 @@
+/* CSS HEX */
+--buttercup: #f49710;
+--tuatara: #242423;
+--oregon: #9b4002;
+--red-stage: #ce6606;
+--walnut: #79491d;
+--fire: #b04a02;
+--meteor: #ce7a19;
+--gamboge: #ee8b0c;
+
+/* SCSS HEX */
+$buttercup: #f49710;
+$tuatara: #242423;
+$oregon: #9b4002;
+$red-stage: #ce6606;
+$walnut: #79491d;
+$fire: #b04a02;
+$meteor: #ce7a19;
+$gamboge: #ee8b0c;
+
+/* SCSS RGB */
+$buttercup: rgba(244,151,16,1);
+$tuatara: rgba(36,36,35,1);
+$oregon: rgba(155,64,2,1);
+$red-stage: rgba(206,102,6,1);
+$walnut: rgba(121,73,29,1);
+$fire: rgba(176,74,2,1);
+$meteor: rgba(206,122,25,1);
+$gamboge: rgba(238,139,12,1);
+
